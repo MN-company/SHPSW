@@ -5,6 +5,8 @@ diventerà il luogo preferito da tutti voi beta tester e utenti in generale.
 Il cuore di questo progetto è la soddisfazione personale nel vedere qualcosa che funzioni realmente,
 detto questo inizio con l'introdurvi effettivamente tutto ciò che c'è da sapere qui:
 
+### 📝 Guardate la sezione delle release per tutti gli aggiornamenti
+
 Cartelle:
 
 - "update"
