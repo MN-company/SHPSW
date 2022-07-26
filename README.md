@@ -22,4 +22,8 @@ in questa cartella troverete tutti i daily update dei vari comandi
 4) Aggiornamenti del "Privacy Report Helper"
 5) Aggiornamenti del "Wi-Fi Helper"
 
+Noi mettiamo a disposizione tutti gli helper per voi! in che senso?
+
+### ✨ Vi invitiamo a modificarli e inviarci sul nostro Discord i vostri cambiamenti che potremmo introdurre come ufficiali nelle prossime release
+
 Entra nella nostra community Discord:
