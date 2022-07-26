@@ -27,3 +27,52 @@ Noi mettiamo a disposizione tutti gli helper per voi! in che senso?
 ### ✨ Vi invitiamo a modificarli e inviarci sul nostro Discord i vostri cambiamenti che potremmo introdurre come ufficiali nelle prossime release
 
 Entra nella nostra community Discord:
+
+# Safari Url Compatibility
+Abbiamo preso le estensioni compatibili per il riconoscimento dei link da [Wikipedia](https://it.wikipedia.org/wiki/Lista_di_domini_di_primo_livello)
+
+Queste estensioni servono all'helper per riconoscere se quello che riceve in input è un sito web supportato, vi potete registrare a tutti i siti contententi queste estensioni e potrete usufruire delle funzionalità del passive recognize per godervi un'esperienza intercativeless
+
+| Estensioni | Supportate |             
+|------------|------------|      
+| .com       | ✔️         |       
+| .biz       | ✔️         |       
+| .biz | ✔️        |              
+| .net | ✔️        |             
+| .org | ✔️        |
+| .info | ✔️       |
+| .eu | ✔️         |
+| .at | ✔️         |
+| .be | ✔️         |
+| .co.uk | ✔️      |
+| .de | ✔️         |
+| .dk | ✔️         |
+| .es | ✔️         |
+| .fi | ✔️         |
+| .fr | ✔️         |
+| .gr | ✔️         |
+| .ie | ✔️         |
+| .it | ✔️         |
+| .lu | ✔️         |
+| .nl | ✔️         |
+| .pt | ✔️         |
+| .se | ✔️         |
+| .ch | ✔️         |
+| .mc | ✔️         |
+| .ru | ✔️         |
+
+### Compatibilità dispositivi
+Con questa tabella troverete i 4 modelli di Apple dove il comando rapido può essere eseguito, **questi modelli sono solo per il riconoscimento dell'url** il comando rapido può essere eseguito su tutti dispositivi che eseguono iOS 15 o superiori.
+
+| Versioni | Supportate          |
+| ------- | ------------------ |
+| 16  | :white_check_mark: |
+| 15  | :white_check_mark: |
+| 14  | :x:                |
+
+| Dispositivo | supportato          |
+| ------- | ------------------ |
+| Mac  | :white_check_mark: |
+| iPhone  | :white_check_mark: |
+| iPad  | :x:                |
+| iPod  | :x:                |
