@@ -36,8 +36,7 @@ Queste estensioni servono all'helper per riconoscere se quello che riceve in inp
 | Estensioni | Supportate |             
 |------------|------------|      
 | .com       | ✔️         |       
-| .biz       | ✔️         |       
-| .biz | ✔️        |              
+| .biz       | ✔️         |                     
 | .net | ✔️        |             
 | .org | ✔️        |
 | .info | ✔️       |
