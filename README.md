@@ -75,3 +75,12 @@ Con questa tabella troverete i 4 modelli di Apple dove il comando rapido può es
 | iPhone  | :white_check_mark: |
 | iPad  | :x:                |
 | iPod  | :x:                |
+
+# Lingue supportate
+| Lingue | Supportate          |
+| ------- | ------------------ |
+| ITA 🇮🇹 | :white_check_mark: |
+| ENG 🇬🇧 | :x:               |
+| DEU 🇩🇪 | :x:                |
+| RU  🇷🇺 | :x:                |
+
