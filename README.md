@@ -18,7 +18,7 @@ questa cartella conterrà tutto ciò che serve per l'aggiornamento automatico de
 Questa cartella è dedicata a tutti i comandi esterni, vitali per il generatore ma sviluppati in un ambiente secondario. Quelli in grassetto verranno aggiornati e distribuiti **anche** secondariamente agli aggiornamenti del generatore, mentre quelli **non in grassetto** sono ormai versioni "obsolete" nello sviluppo esterno dato che sono state già integrate nel comando rapido principale.
 
 1) Aggiornamenti del "**Crypt Helper**"
-2) Aggiornamenti del "vDecrypt Helper**"
+2) Aggiornamenti del "**Decrypt Helper**"
 3) Aggiornamenti del "**Safari Screen Helper**"
 4) Aggiornamenti del "Privacy Report Helper"
 5) Aggiornamenti del "Wi-Fi Helper"
