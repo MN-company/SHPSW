@@ -70,7 +70,7 @@ Con questa tabella troverete i 4 modelli di Apple dove il comando rapido può es
 | 15  | :white_check_mark: |
 | 14  | :x:                |
 
-| Dispositivo | supportato          |
+| Dispositivo | testato          |
 | ------- | ------------------ |
 | Mac  | :white_check_mark: |
 | iPhone  | :white_check_mark: |
