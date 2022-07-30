@@ -81,7 +81,7 @@ Con questa tabella troverete i 4 modelli di Apple dove il comando rapido può es
 | Lingue | Supportate          |
 | ------- | ------------------ |
 | ITA 🇮🇹 | :white_check_mark: |
-| ENG 🇬🇧 | :x:               |
+| ENG 🇬🇧 | :white_check_mark: |
 | DEU 🇩🇪 | :x:                |
 | RU  🇷🇺 | :x:                |
 
