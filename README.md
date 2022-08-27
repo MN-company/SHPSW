@@ -85,3 +85,7 @@ Con questa tabella troverete i 4 modelli di Apple dove il comando rapido può es
 | DEU 🇩🇪 | :x:                |
 | RU  🇷🇺 | :x:                |
 
+# CryptoKit fork for MNbrain Derivate's password generator
+Abbiamo realizzato un fork del celebre [CryptoKit](https://www.reddit.com/r/shortcuts/comments/9p2vix/cryptokit_a_cryptography_shortcut/) realizzato per criptare e decriptare le password.
+
+## Usiamo quindi la crittografia AES (BCB) 256-Bit quindi tutte le vostre password sono al sicuro, nessuno script può decriptare le vostre password.
