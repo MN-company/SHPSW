@@ -1,0 +1,34 @@
+{"GenPSW1":"È ora di aggiornare!"}
+{"GenPSW2":"Cosa vuoi fare?"}
+{"GenPSW3":"Dove userai questa password?"}
+{"GenPSW4":"Sei sicuro di voler continuare? Le tue password saranno cancellate per sempre, l'azione è irreversibile."}
+{"GenPSW5":"Scegli dove esportare le password"}
+{"GenPSW6":"La tua password è stata generata"}
+{"GenPSW7":"(La password è stata copiata negli appunti)"}
+{"Sec1":"Ora ti verranno chiesti dei dati per la sicurezza del comando rapido. Ricordati che questa protezione può essere elusa facilmente, noi stiamo lavorando molto per migliorare la sicurezza e le notifiche!"}
+{"Sec2":"Error 3"}
+{"Sec3":"Adesso dovrai fare la stessa cosa, specificando però gli indirizzi email a cui inviare il Privacy Report"}
+{"Sec4":"Specifica il tuo indirizzo email da cui inviare i Privacy Report. Ricorda che l’indirizzo deve essere configurato con Apple Mail consigliamo quindi di specificare il proprio ID Apple che in molti casi è già configurato."}
+{"Sec5":"Inserisci la tua mail per inviare i Privacy Report."}
+{"Sec6":"Inserisci il valore della nuova master password"}
+{"Sec7":"Ora dovrai creare una master password per limitare l’uso di alcune funzioni da parte d'intrusi"}
+{"Sec8":"Inserisci la master password, se è la tua prima volta non cambiare il valore."}
+{"Sec9":"Lista mail"}
+{"Sec10":"Master password"}
+{"Sec11":"Recapito"}
+{"Sec12":"Indirizzo d'invio mail"}
+{"Sec13":"Numeri di telefono"}
+{"Sec14":"Hai completato il primo passaggio! Ora dovrai specificare uno/più numeri a cui mandare le segnalazioni. (Ricorda che se specifichi un contatto che non ha un iPhone potrebbero esserci costi aggiuntivi per gli SMS/MMS) "}
+{"PRH1":"Il generatore di password è stato bloccato per ragioni di sicurezza. Ogni password rimarrà al sicuro sul tuo dispositivo, digita la master password per sbloccarlo:"}
+{"PRH2":"Foto"}
+{"PRH3":"Qualcuno ha sbagliato per ben 2 volte la master password, assicurati di prendere le giuste precauzioni nel mentre ti inviamo informazioni sull'accaduto:"}
+{"PRH4":"Qualcuno ha provato ad accedere impropriamente alle tue password, questa è una mail di avviso contenente i dati di chi sta usando MNbrain Derivate's (13.6)"}
+{"PRH5":"Informazioni sul dispositivo"}
+{"PRH6":"Latitudine"}
+{"PRH7":"Link Apple Maps"}
+{"PRH8":"Longitudine"}
+{"PRH9":"URGENTE: IL GENERATORE DI PASSWORD È STATO BLOCCATO"}
+{"PRH10":"Posizione"}
+{"PRH11":"Abbiamo inoltre impostato la rete in modo da poter inviare, ricevere messaggi ed essere tracciato più facilmente da strumenti esterni."}
+{"PRH12":"⚠️ URGENTE: IL GENERATORE DI PASSWORD È STATO BLOCCATO ⚠️"}
+

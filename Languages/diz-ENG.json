@@ -1,0 +1,35 @@
+{"GenPSW1": "Time to update!"}
+{"GenPSW2": "What do you want to do?"}
+{"GenPSW3": "Where will you use this password?"}
+{"GenPSW4": "Are you sure you want to continue? Your passwords will be deleted permanently, the action is irreversible."}
+{"GenPSW5": "Choose where to export passwords"}
+{"GenPSW6": "Your password has been successfully generated"}
+{"GenPSW7":"(Password was copied to clipboard)"}
+{"Sec1": "You will now be asked for data for the security of Barly. Remember that this protection can be bypassed easily, we are working hard to improve security and notifications!"}
+{"Sec2": "Error 3"}
+{"Sec3": "Now you will have to do the same but specifying the email addresses to which the Privacy Report will be sent"}
+{"Sec4": "Specify your email address from which to send Privacy Reports. Remember that the address must be configured with Apple Mail so we recommend specifying your Apple ID which in many cases is already configured."}
+{"Sec5": "Enter your email to send Privacy Reports."}
+{"Sec6": "Enter the value of the new master password"}
+{"Sec7": "You will now have to create a master password to restrict intruders from using some features"}
+{"Sec8": "Enter the master password, if it is your first time do not change the value."}
+{"Sec9": "Mail list"}
+{"Sec10": "Master password"}
+{"Sec11": "Address"}
+{"Sec12": "Email sending address"}
+{"Sec13": "Phone numbers"}
+{"Sec14": "You have completed the first step! Now you will need to specify one/more numbers to which to send alerts. (Remember that if you specify a contact who does not have an iPhone there may be additional SMS/MMS fees."}
+{"PRH1": "The password generator has been locked for security reasons. Any password will remain safe on your device, type the master password to unlock it:"}
+{"PRH2": "Photo"}
+{"PRH3": "Someone mistyped the master password 2 times, be sure to take proper precautions while we send you information about the incident:"}
+{"PRH4": "Someone tried to inappropriately access your passwords, this is a warning email containing the details of who is using MNbrain Derivate's (13.6)"}
+{"PRH5": "Device Information"}
+{"PRH6":"Latitudine"}
+{"PRH7": "Apple Maps link"}
+{"PRH8":"Longitudine"}
+{"PRH9": "URGENT: PASSWORD GENERATOR HAS BEEN LOCKED"}
+{"PRH10":"Posizione"}
+{"PRH11": "We have also set up the network so that it can send, receive messages and be tracked more easily by external tools."}
+{"PRH12":"⚠️ URGENT: PASSWORD GENERATOR HAS BEEN BLOCKED ⚠️"}
+
+Translated with www.DeepL.com/Translator (free version)
